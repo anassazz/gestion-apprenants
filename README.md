@@ -34,3 +34,18 @@ Avant d’exécuter ce projet, assurez-vous d’avoir :
 
 . Un compilateur C fonctionnel (par exemple : GCC).
 . Un environnement où vous pouvez exécuter un programme en ligne de commande.
+# Instructions d'utilisation
+Menu principal :
+Une fois le programme exécuté, vous verrez le menu suivant :
+Menu des options :
+1. Ajouter un apprenant
+2. Afficher tous les apprenants
+3. Mettre à jour un apprenant
+4. Supprimer un apprenant
+5. Quitter
+# Fonctionnalités principales :
+1.Ajouter un apprenant : Remplissez les informations demandées pour enregistrer un nouvel apprenant.
+2.Afficher tous les apprenants : Affiche une liste complète avec toutes les informations disponibles.
+3.Mettre à jour un apprenant : Permet de modifier les données d’un apprenant existant.
+4.Supprimer un apprenant : Supprime un apprenant en réorganisant la liste automatiquement.
+5.Quitter : Ferme le programme.
