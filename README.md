@@ -12,7 +12,7 @@ C’est un projet éducatif conçu pour explorer les structures et les opératio
 
 # Détails Techniques
 1 Structure des données
-Structure Adresse :
+ Structure Adresse :
 Contient les informations liées à l'adresse d'un apprenant :
 
 .Rue
